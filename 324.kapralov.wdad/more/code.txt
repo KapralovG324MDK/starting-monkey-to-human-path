@@ -1,4 +1,7 @@
-int a,b,c
-a=1
-b=2
-c=90
+int a,b,c;
+a=1;
+b=2;
+c=90;
+int x;
+x=a+b*90;
+printf("%d",x);
